@@ -105,4 +105,201 @@ My technical interests include **Python programming, machine learning, data anal
 | **Python for AI/ML**            |   Learning  | Applying Python to programming, data processing, and model experimentation |
 | **Computer Vision**             |   Learning  | Exploring image processing, object recognition, and visual classification  |
 | **Data Science**                |   Learning  | Learning data cleaning, exploratory analysis, and visualization            |
-| **Deep Learning**               |   Learning  | Exploring neural networks, deep architectures, and model representations   |
+| **Deep Learning**               |   Learning  | Exploring neural networks and deep learning architectures                  |
+| **Natural Language Processing** |   Learning  | Exploring text processing and language-based applications                  |
+| **Model Evaluation**            |   Learning  | Understanding performance metrics and validation techniques                |
+| **AI Product Engineering**      |  Developing | Applying AI concepts to practical software projects                        |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🛡️ Smart Lab Safety Sentinel</strong></summary>
+
+<br/>
+
+An intelligent computer vision and AI monitoring system designed to promote laboratory safety compliance and hazard detection in real-time.
+
+| Metric          | Details                                                                    |
+| :-------------- | :------------------------------------------------------------------------- |
+| **Stack**       | Python · OpenCV · Machine Learning · Computer Vision                       |
+| **Scale**       | Real-time hazard and PPE detection prototype                               |
+| **Security**    | Edge-focused image stream processing and privacy-conscious design          |
+| **Impact**      | Promotes lab protocol adherence and automated industrial safety monitoring |
+| **Repository**  | [smart-lab-safety-sentinel](https://github.com/amogh56/smart-lab-safety-sentinel) |
+
+### Engineering Scope
+
+* Automated video frame capture and stream preprocessing
+* Detection and classification of safety equipment and protocol adherence
+* Alerting and visual confirmation feedback loop
+* High-accuracy inference optimization for edge and desktop setups
+
+</details>
+
+<details>
+<summary><strong>🔬 Nexus AI Labs</strong></summary>
+
+<br/>
+
+A modular platform experimenting with modern artificial intelligence architectures, machine learning models, and automated engineering workflows.
+
+| Metric          | Details                                                  |
+| :-------------- | :------------------------------------------------------- |
+| **Stack**       | Python · Machine Learning · Data Processing              |
+| **Scale**       | Modular AI experiments and application prototypes        |
+| **Impact**      | Demonstrates the application of AI to practical problems |
+| **Repository**  | [nexus-ai-labs](https://github.com/amogh56/nexus-ai-labs) |
+
+### Engineering Scope
+
+* Problem definition and exploratory data analysis
+* Feature engineering and dataset preparation
+* Model selection, evaluation, and error analysis
+* Reproducible workflows and clean modular code
+
+</details>
+
+<details>
+<summary><strong>🌐 Personal Portfolio Website</strong></summary>
+
+<br/>
+
+A modern responsive web portfolio showcasing technical projects, skill sets, and contact avenues.
+
+| Metric          | Details                                                       |
+| :-------------- | :------------------------------------------------------------ |
+| **Stack**       | React · JavaScript · Modern CSS · Vercel                      |
+| **Scale**       | Personal portfolio and interactive project showcase           |
+| **Security**    | HTTPS deployment and secure external linking                  |
+| **Live**        | [Visit Portfolio](https://amoghportfolio.vercel.app)          |
+| **Repository**  | [portfolio](https://github.com/amogh56/portfolio)             |
+
+### Engineering Scope
+
+* Clean component architecture and sleek dark-mode aesthetics
+* Responsive design across mobile, tablet, and desktop
+* Performance optimization and Vercel edge deployment
+
+</details>
+
+---
+
+## Experience
+
+### AI/ML Student & Software Development Projects
+
+**Academic and Independent Development**
+
+`Ongoing`
+
+Focused on developing technical skills through academic learning, programming practice, and project-based exploration of artificial intelligence and software development.
+
+### Scope of Work
+
+* Study core programming concepts, data structures, and algorithms.
+* Explore machine learning techniques and computer vision systems.
+* Apply Python to data processing, visualization, and model experimentation.
+* Build modern full-stack web applications with responsive interfaces.
+* Practice version control and source code management using Git and GitHub.
+
+**Skills**
+
+`Python` `Machine Learning` `Artificial Intelligence` `Computer Vision` `Data Analysis` `Java` `C` `C++` `JavaScript` `HTML` `CSS` `Git` `GitHub` `Problem Solving`
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Technology-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Oracle-Technology-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-312E81?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-312E81?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures%20%26%20Algorithms-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Programming-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/amogh56" target="_blank">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amogh56&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0B1F" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/amogh56" target="_blank">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh56&layout=compact&langs_count=10&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amogh56" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=amogh56&theme=dark&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Python Programming
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Data Structures and Algorithms
+  - Data Analysis
+  - Full Stack Development
+  - Software Engineering Fundamentals
+
+Building:
+  - AI/ML Academic Projects
+  - Real-World Problem-Solving Applications
+  - Computer Vision Experiments
+  - Personal Portfolio
+  - Data-Driven Applications
+
+Exploring:
+  - Intelligent Systems
+  - Model Evaluation
+  - Image Classification
+  - Web Application Development
+  - Open Source Projects
+  - Data Visualization
+  - Software Design and Architecture
+
+Open To:
+  - AI/ML Internships
+  - Software Engineering Opportunities
+  - Full Stack Development
+  - Open Source Collaboration
+  - Research and Applied AI
+  - Hackathons
+  - Collaborative Projects
